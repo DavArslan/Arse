@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Khushboo Goel</h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a8/de/fd/a8defdbc2d111c130dca403f4a64fe5b.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/93/9a/80/939a80553bd84dbaa7929acfaa87d31e.giff">
 
 - 👨‍💻 You can also check out my portfolio at [https://khushboogoel01.github.io/](https://khushboogoel01.github.io/)
 
